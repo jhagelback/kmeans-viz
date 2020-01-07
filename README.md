@@ -1,2 +1,2 @@
-# kmeans-viz
-Visualization of K-means Clustering
+## Visualization of K-means Clustering
+Run with <code>java Main</code>
